@@ -12,7 +12,7 @@ github_repo: "https://github.com/InstantWindy/InstantWindy.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stand on Solid Ground!"
-sidebar-avatar: /img/Windy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Windy_1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
   {
-        title: "简书·BY",
+        title: "简书·顾北向南",
         href: "http://www.jianshu.com/u/54d7269043c9"
     }
 ]
