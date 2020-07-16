@@ -123,7 +123,7 @@
 
 ### 17. TTSR（CVPR2020）
 
-- [https://arxiv.org/pdf/2006.04139.pdf](https://arxiv.org/pdf/2006.04139.pdf)
+- [**论文地址**](https://arxiv.org/pdf/2006.04139.pdf)
 
 - [**代码地址（Pytorch）**](https://github.com/researchmm/TTSR)
 
